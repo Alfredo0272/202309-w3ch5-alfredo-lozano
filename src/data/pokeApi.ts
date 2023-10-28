@@ -1,6 +1,6 @@
 import { PokemonInfo, Pokemon } from '../model/pokeInfo';
 
-export class pokeApi {
+export class PokeApi {
   pokeUrl: string;
   repoUrl: string;
   constructor() {
